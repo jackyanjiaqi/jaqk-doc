@@ -1,6 +1,8 @@
 {
 	"name": "jaqk",
 	"version": "0.0.2",
+    "author": "jackyanjiaqi@gmail.com",
+    "repository": "https://github.com/jackyanjiaqi/jaqk-util",
 	"dependencies": {
 	},
 	"devDependencies": {}
