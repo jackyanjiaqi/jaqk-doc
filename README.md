@@ -1,5 +1,6 @@
 # JAQK 个人命令行提效工具
-![title](./logo.png)
+![](./logo.jpg)
+![](https://github.com/jackyanjiaqi/jaqk-util/raw/master/logo.jpg)
 
 为个人打造的一款定制化命令行效率工具
 
@@ -41,7 +42,8 @@
 
 # 业务图
 
-![业务](./业务.png)
+![](./业务.jpg)
+![](https://github.com/jackyanjiaqi/jaqk-util/raw/master/业务.jpg)
 
 关键路径如下：
 - 客户向提效业务员提出自己的业务痛点，提效业务员给出部分建议以及归纳客户需求给开发人员
